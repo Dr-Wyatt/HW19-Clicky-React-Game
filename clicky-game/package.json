@@ -8,6 +8,7 @@
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
   },
+  "homepage": "https://Dr-Wyatt.github.io/HW19-Clicky-React-Game",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -30,6 +31,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "homepage": "https://Dr-Wyatt.github.io/HW19-Clicky-React-Game"
+  }
 }
