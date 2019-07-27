@@ -9,7 +9,8 @@ class App extends React.Component {
 
   state = {
     tilesInfo,
-    score: 0
+    score: 0,
+    beenClicked: []
   };
 
   handleIncrement = () => {
