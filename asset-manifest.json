@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/HW19-Clicky-React-Game/static/css/main.2cce8147.chunk.css",
-    "main.js": "/HW19-Clicky-React-Game/static/js/main.a09425e8.chunk.js",
-    "main.js.map": "/HW19-Clicky-React-Game/static/js/main.a09425e8.chunk.js.map",
+    "main.css": "/HW19-Clicky-React-Game/static/css/main.804ad408.chunk.css",
+    "main.js": "/HW19-Clicky-React-Game/static/js/main.97584133.chunk.js",
+    "main.js.map": "/HW19-Clicky-React-Game/static/js/main.97584133.chunk.js.map",
     "runtime~main.js": "/HW19-Clicky-React-Game/static/js/runtime~main.91a17acc.js",
     "runtime~main.js.map": "/HW19-Clicky-React-Game/static/js/runtime~main.91a17acc.js.map",
-    "static/js/2.b41502e9.chunk.js": "/HW19-Clicky-React-Game/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/HW19-Clicky-React-Game/static/js/2.b41502e9.chunk.js.map",
+    "static/js/2.6efc73d3.chunk.js": "/HW19-Clicky-React-Game/static/js/2.6efc73d3.chunk.js",
+    "static/js/2.6efc73d3.chunk.js.map": "/HW19-Clicky-React-Game/static/js/2.6efc73d3.chunk.js.map",
     "index.html": "/HW19-Clicky-React-Game/index.html",
-    "precache-manifest.bec4474c105364a00f1df9e1bf32aa43.js": "/HW19-Clicky-React-Game/precache-manifest.bec4474c105364a00f1df9e1bf32aa43.js",
+    "precache-manifest.82df97ac29369d36cf51e5c308f3a55f.js": "/HW19-Clicky-React-Game/precache-manifest.82df97ac29369d36cf51e5c308f3a55f.js",
     "service-worker.js": "/HW19-Clicky-React-Game/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/HW19-Clicky-React-Game/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/HW19-Clicky-React-Game/static/media/logo.5d5d9eef.svg"
+    "static/css/main.804ad408.chunk.css.map": "/HW19-Clicky-React-Game/static/css/main.804ad408.chunk.css.map"
   }
 }
