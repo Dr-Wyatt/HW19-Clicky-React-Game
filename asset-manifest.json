@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/HW19-Clicky-React-Game/static/css/main.804ad408.chunk.css",
-    "main.js": "/HW19-Clicky-React-Game/static/js/main.97584133.chunk.js",
-    "main.js.map": "/HW19-Clicky-React-Game/static/js/main.97584133.chunk.js.map",
+    "main.css": "/HW19-Clicky-React-Game/static/css/main.cb9145c6.chunk.css",
+    "main.js": "/HW19-Clicky-React-Game/static/js/main.1a0cffc8.chunk.js",
+    "main.js.map": "/HW19-Clicky-React-Game/static/js/main.1a0cffc8.chunk.js.map",
     "runtime~main.js": "/HW19-Clicky-React-Game/static/js/runtime~main.91a17acc.js",
     "runtime~main.js.map": "/HW19-Clicky-React-Game/static/js/runtime~main.91a17acc.js.map",
     "static/js/2.6efc73d3.chunk.js": "/HW19-Clicky-React-Game/static/js/2.6efc73d3.chunk.js",
     "static/js/2.6efc73d3.chunk.js.map": "/HW19-Clicky-React-Game/static/js/2.6efc73d3.chunk.js.map",
     "index.html": "/HW19-Clicky-React-Game/index.html",
-    "precache-manifest.82df97ac29369d36cf51e5c308f3a55f.js": "/HW19-Clicky-React-Game/precache-manifest.82df97ac29369d36cf51e5c308f3a55f.js",
+    "precache-manifest.c376757482ed7e71b376deabda7e2bf3.js": "/HW19-Clicky-React-Game/precache-manifest.c376757482ed7e71b376deabda7e2bf3.js",
     "service-worker.js": "/HW19-Clicky-React-Game/service-worker.js",
-    "static/css/main.804ad408.chunk.css.map": "/HW19-Clicky-React-Game/static/css/main.804ad408.chunk.css.map"
+    "static/css/main.cb9145c6.chunk.css.map": "/HW19-Clicky-React-Game/static/css/main.cb9145c6.chunk.css.map"
   }
 }
